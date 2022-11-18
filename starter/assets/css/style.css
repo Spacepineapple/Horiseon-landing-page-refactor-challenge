@@ -54,6 +54,7 @@ figure img{
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    /*The following recreate the style of background-size: cover and background-position: center */
     object-fit: cover;
     object-position: center;
 }
