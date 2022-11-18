@@ -50,13 +50,12 @@ p {
     font-size: 16px;
 }
 
-figure {
+figure img{
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    object-fit: cover;
+    object-position: center;
 }
 
 .float-left {
@@ -69,7 +68,7 @@ figure {
     margin-left: 25px;
 }
 
-main {
+article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
