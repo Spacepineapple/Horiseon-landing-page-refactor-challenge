@@ -1,6 +1,6 @@
 # Code Refactor Challenge
 
-## Description <a name="description"></a>
+## Description <a id="description"></a>
 
 This landing page was created as my solution to the first challenge task of a
 web development bootcamp. All assets including the index.html and the style.css
@@ -24,13 +24,13 @@ My task was to take this file and perform the following tasks:
 5. [License](#license)
 
 
-## Installation <a name="installation"></a>
+## Installation <a id="installation"></a>
 
 All of the required files are included in this repository and no installation
 should be required. The index.html file should render in any modern browser on
 both a desktop or mobile device. 
 
-## Usage <a name="usage"></a>
+## Usage <a id="usage"></a>
 
 To use the files within this repository, first download the repository and then
 open the index.html file in any browser. On opening the page, it should render
@@ -48,7 +48,7 @@ also note that this page does not use responsive design elements and while the
 page should still render, it may not have the desired appearance and layout on
 smaller screen sizes.
 
-## Credits <a name="credits"></a>
+## Credits <a id="credits"></a>
 
-## License <a name="license"></a>
+## License <a id="license"></a>
 
