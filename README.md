@@ -1,5 +1,16 @@
 # Code Refactor Challenge
 
+## Table of Contents
+1. [URL](#url)
+2. [Description](#description)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Credits](#credits)
+
+## URL <a id="url"></a>
+
+A live version of this page has been deployed at https://spacepineapple.github.io/code-refactor-challenge/#social-media-marketing.
+
 ## Description <a id="description"></a>
 
 This landing page was created as my solution to the first challenge task of a
@@ -16,13 +27,12 @@ My task was to take this file and perform the following tasks:
 3. Ensure all elements had the expected functionality
 4. Tidy all files and add comments as appropriate
 
-## Table of Contents
-1. [Description](#description)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Credits](#credits)
-5. [License](#license)
+The appearance of the page is as follows: 
 
+![Screenshot of upper portion of page with header, nav bar and large
+image](./images/upper-screenshot.png)
+![Screenshot of lower portion of page with main content including article and
+aside](./images/lower-screenshot.png)
 
 ## Installation <a id="installation"></a>
 
@@ -33,13 +43,7 @@ both a desktop or mobile device.
 ## Usage <a id="usage"></a>
 
 To use the files within this repository, first download the repository and then
-open the index.html file in any browser. On opening the page, it should render
-as follows:
-
-![Screenshot of upper portion of page with header, nav bar and large
-image](./starter/assets/images/upper-screenshot.png)
-![Screenshot of lower portion of page with main content including article and
-aside](./starter/assets/images/lower-screenshot.png)
+open the index.html file in any browser. 
 
 Please note that due to the use of the object-fit and object-fit CSS properties,
 this page is unlikely to render correctly in Internet Explorer and for this
@@ -50,5 +54,8 @@ smaller screen sizes.
 
 ## Credits <a id="credits"></a>
 
-## License <a id="license"></a>
-
+This project was completed by myself -- Neal Reeves -- using image assets and
+starter code from the edX Front-End Web Development bootcamp. My contribution
+was to fix any broken functionality, consolidate and simplify the CSS file, add
+semantic elements to the HTML source code and add comments where
+appropriate. 
