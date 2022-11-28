@@ -9,7 +9,8 @@
 
 ## URL <a id="url"></a>
 
-A live version of this page has been deployed at https://spacepineapple.github.io/code-refactor-challenge/#social-media-marketing.
+A live version of this page has been deployed at
+https://spacepineapple.github.io/Horiseon-landing-page-refactor-challenge/ .
 
 ## Description <a id="description"></a>
 
